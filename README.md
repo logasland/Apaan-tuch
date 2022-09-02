@@ -14,3 +14,9 @@
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick) |
 
 ---
+
+# Thanks to
+<a href="https://github.com/Nurutomo"><img src="https://github.com/Nurutomo.png?size=100" width="100" height="100"></a> | [![frmdeveloper](https://github.com/frmdeveloper.png?size=100)](https://github.com/frmdeveloper) 
+---|---
+Owner Of Script | Contolbutor |
+
