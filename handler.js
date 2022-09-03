@@ -699,7 +699,7 @@ module.exports = {
         let fetch = require('node-fetch')
         let text = ''
         switch (action) {
-            case 'add':
+        /*    case 'add':
             case 'remove':
                 if (chat.welcome) {
                     let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
@@ -715,7 +715,7 @@ module.exports = {
                                 }
                     }
                 }
-                break
+                break */
             case 'promote':
                 text = (chat.sPromote || this.spromote || conn.spromote || '@user ```is now Admin```')
             case 'demote':
