@@ -715,7 +715,7 @@ module.exports = {
                                 }
                     }
                 }
-                break */
+                break
             case 'promote':
                 text = (chat.sPromote || this.spromote || conn.spromote || '@user ```is now Admin```')
             case 'demote':
@@ -726,7 +726,7 @@ module.exports = {
                         mentionedJid: this.parseMention(text)
                     }
                 })
-                break
+                break */
         }
     },
     async delete(m) {
